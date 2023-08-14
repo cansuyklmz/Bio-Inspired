@@ -1,13 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 22 10:50:43 2021
-
-@author: cnsyk
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 14 19:24:47 2021
 
 @author: cnsyk
 """
@@ -32,7 +24,7 @@ numberPoints   =301
 
 # Add path of NN's data to system search path
 nnPath = "C:/Users/cnsyk/.spyder-py3/LSTM_training/"
-dataPathInput = "C:/Users/cnsyk/OneDrive/Desktop/scitech_last_version/scitech_LSTM/FINAL_rocket_all_states.mat"
+dataPathInput = "C:/Users/cnsyk/OneDrive/Desktop/FINAL_rocket_all_states.mat"
 
 sample   = hdf5storage.loadmat(dataPathInput)
 
