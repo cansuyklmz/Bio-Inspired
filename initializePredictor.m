@@ -31,8 +31,6 @@ outputFeatures = 2;
 pyversion('C:\Users\cnsyk\anaconda3\python.exe')
 pyenv('ExecutionMode','OutOfProcess');
 % pyversion('C:\Users\cnsyk\anaconda3\python.exe')
-% oldDirectory = cd;
-% cd 'C:\TAI_IL\aircraft-models\LSTM_NDI_v1\ndi-f16-model\whole-model\NeuralNetwork\PythonEnvirement\splitSTraining'
 test_model = py.importlib.import_module('FINAL_module');
 py.FINAL_module.run(zeros(lookback,inputFeatures)) %for actuators
 py.FINAL_module.runv2(zeros(lookback,inputFeatures)) %for actuators
