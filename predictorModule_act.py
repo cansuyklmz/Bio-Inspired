@@ -24,7 +24,7 @@ nnPath = "C:/Users/cnsyk/.spyder-py3/saved_NNs/"
 
 # dataPathInput = "C:/Users/cnsyk/OneDrive/Desktop/scitech_last_version/rocket_all_states_V4.mat "
 # dataPathInput  = "C:/TAI_IL/LSTM_Models/dataSetAllStatesSplitS1.mat"
-dataPathInput = "C:/Users/cnsyk/OneDrive/Desktop/scitech_last_version/scitech_LSTM/rocket_all_states_V3.mat"
+dataPathInput = "C:/Users/cnsyk/OneDrive/Desktop/rocket_all_states_V3.mat"
 
 #dataPathInput = "C:/TAI_IL/aircraft-models/LSTM_NDI_v1/ndi-f16-model/whole-model/Dagger/Split-S_Dagger_iter_0_to_3.mat"
 #dataSetAllStatesSplitS1.mat"
